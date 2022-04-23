@@ -470,7 +470,7 @@ footer .copyright .pro-links i:hover {
     }
 
     nav .navigation ul .active {
-        right: 0;
+        right: -20px;
     }
 
     nav .navigation ul li {
@@ -518,6 +518,7 @@ footer .copyright .pro-links i:hover {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align: center;
     }
     #registration .reminder .time{
         display: flex;
